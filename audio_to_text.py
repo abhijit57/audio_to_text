@@ -13,6 +13,6 @@ converted_text = r.recognize_google(audio_text)
 
 # Print converted text from the audio file
 print(converted_text)
-print('Type of converted_text:',converted_text)
+print('Type of converted_text:', converted_text)
 print(audio_text)
-print('Type of audio_text:',type(audio_text))
+print('Type of audio_text:', type(audio_text))
